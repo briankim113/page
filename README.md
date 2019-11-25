@@ -1,4 +1,4 @@
-![Image of myself](https://github.com/briankim113/page/photo.jpg)
+![Image of myself](photo.jpg)
 
 ## Education
 **New York University Abu Dhabi**, Abu Dhabi, UAE
