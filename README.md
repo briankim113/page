@@ -1,10 +1,13 @@
-## Brian Kim
+![Image of myself](https://github.com/briankim113/page/photo.jpg)
 
-You can use the [editor on GitHub](https://github.com/briankim113/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
+**New York University Abu Dhabi**, Abu Dhabi, UAE
+Expected Graduation: December 2021
+Bachelor of Science in Computer Science
+Minors in Interactive Media and Psychology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Class and Personal Projects
+Some of my projects can be found [here](https://gist.github.com/briankim113/6966eb37eac6d5bfd94648a9bf1ea965).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
