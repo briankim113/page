@@ -24,7 +24,7 @@ Some of my projects can be found [here](https://gist.github.com/briankim113/6966
 Let's connect! Email me at hk2473@nyu.edu or contact me over various platforms below: 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-<p><img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="me" width="28" height="28"></p>
+<p><img style="padding: 0 15px; float: right;" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="me" width="28" height="28"></p>
 
 
 [1.1]: http://i.imgur.com/P3YfQoD.png
