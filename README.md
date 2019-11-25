@@ -13,6 +13,7 @@ Minors in Interactive Media and Psychology <br />
 - Discrete Math <br />
 - Introduction to Computer Science <br />
 - Artificial Intelligence and Human Decisions <br />
+
 *Interactive Media* <br />
 - Introduction to Interactive Media <br />
 - Communications Lab <br />
@@ -25,13 +26,13 @@ Email me at hk2473@nyu.edu <br />
 Or contact me over various platforms below:
 
 <a href="http://www.facebook.com/briankim113">
-  <img src="https://image.flaticon.com/icons/png/512/25/25187.png" alt="facebook" width="40" height="40">
+  <img src="https://image.flaticon.com/icons/png/512/25/25187.png" alt="facebook" width="30" height="30" style="vertical-align:middle">
 </a>
 
 <a href="http://www.github.com/briankim113">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" alt="github" width="30" height="30">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" alt="github" width="30" height="30" style="vertical-align:middle">
 </a>
 
 <a href="https://www.linkedin.com/in/brian-kim-44a664198/">
-  <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28">
+  <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="vertical-align:middle">
 </a>
