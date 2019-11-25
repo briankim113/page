@@ -25,7 +25,7 @@ Let's connect! Email me at hk2473@nyu.edu or contact me over various platforms b
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 <a href="https://www.linkedin.com/in/brian-kim-44a664198/">
-  <img style="padding: 0 15px; float: right;" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="me" width="20" height="20">
+  <img style="padding: 15px;" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="me" width="20" height="20">
 </a>
 
 
