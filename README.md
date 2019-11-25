@@ -24,15 +24,15 @@ Some of my projects can be found [here](https://gist.github.com/briankim113/6966
 Let's connect! Email me at hk2473@nyu.edu or contact me over various platforms below: 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-<a href="https://www.linkedin.com/in/brian-kim-44a664198/">
-  <img style="padding-bottom: 20px; padding-left: 20px" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="me" width="20" height="20">
+
+<a href="http://www.facebook.com/briankim113">
+  <img src="http://i.imgur.com/P3YfQoD.png" alt="facebook" width="20" height="20">
 </a>
 
+<a href="http://www.github.com/briankim113">
+  <img src="http://i.imgur.com/0o48UoR.png" alt="github" width="20" height="20">
+</a>
 
-[1.1]: http://i.imgur.com/P3YfQoD.png
-[2.1]: http://i.imgur.com/0o48UoR.png
-[3.1]: https://image.flaticon.com/icons/png/512/49/49656.png
-
-[1]: http://www.facebook.com/briankim113
-[2]: http://www.github.com/briankim113
-[3]: https://www.linkedin.com/in/brian-kim-44a664198/
+<a href="https://www.linkedin.com/in/brian-kim-44a664198/">
+  <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="20" height="20">
+</a>
