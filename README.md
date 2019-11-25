@@ -36,6 +36,6 @@ Or contact me over various platforms below:
     <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" alt="github" width="30" height="30" style="vertical-align:middle">
   </a>
   <a href="https://www.linkedin.com/in/brian-kim-44a664198/">
-    <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:100px; vertical-align:middle">
+    <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:5px; vertical-align:middle">
   </a>
 </p>
