@@ -5,8 +5,8 @@
 ## Education
 **New York University Abu Dhabi**, Abu Dhabi, UAE <br />
 Expected Graduation: December 2021 <br />
-Bachelor of Science in Computer Science <br />
-Minors in Interactive Media and Psychology <br />
+B.S. in *Computer Science* <br />
+Minors in *Interactive Media* and *Psychology* <br />
 
 **Relevant Coursework** <br />
 <br />
@@ -36,6 +36,6 @@ Or contact me over various platforms below:
     <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" alt="github" width="30" height="30" style="vertical-align:middle">
   </a>
   <a href="https://www.linkedin.com/in/brian-kim-44a664198/">
-    <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="vertical-align:middle">
+    <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:5px; vertical-align:middle">
   </a>
 </p>
