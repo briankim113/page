@@ -1,4 +1,5 @@
 ![Image of myself](photo.jpg =250x250)
+<p><img src="photo.png" alt="me" width="250" height="250"></p>
 
 ## Education
 **New York University Abu Dhabi**, Abu Dhabi, UAE <br />
