@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Brian Kim
 
 You can use the [editor on GitHub](https://github.com/briankim113/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
