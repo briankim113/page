@@ -1,4 +1,3 @@
-![Image of myself](photo.jpg =250x250)
 <p><img src="photo.jpg" alt="me" width="250" height="250"></p>
 
 ## Education
@@ -26,6 +25,8 @@ Let's connect! Email me at hk2473@nyu.edu or contact me over various platforms b
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+<p><img src="photo.jpg" alt="me" width="50" height="50"></p>[3]
+
 
 [1.1]: http://i.imgur.com/P3YfQoD.png
 [2.1]: http://i.imgur.com/0o48UoR.png
