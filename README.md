@@ -22,7 +22,11 @@ Minors in *Interactive Media* and *Psychology* <br />
 - Communications Lab <br />
 
 ## Class and Personal Projects
-Some of my projects can be found [here](https://gist.github.com/briankim113/6966eb37eac6d5bfd94648a9bf1ea965).
+*Class* <br/ >
+[Dirham Miner (game via Processing)](https://github.com/briankim113/introfinal)
+<br/>
+*Personal* <br/>
+[Choongman Chicken (iOS app via Swift)](https://github.com/briankim113/ChoongmanChicken)
 
 ## Let's Connect!
 Email me at hk2473@nyu.edu <br />
