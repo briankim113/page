@@ -3,33 +3,33 @@
 </p>
 
 ## Education
-**New York University Abu Dhabi**, Abu Dhabi, UAE <br />
-Expected Graduation: December 2021 <br />
-B.S. in *Computer Science* <br />
-Minors in *Interactive Media* and *Psychology* <br />
+**New York University Abu Dhabi**, Abu Dhabi, UAE <br/>
+Expected Graduation: December 2021 <br/>
+B.S. in *Computer Science* <br/>
+Minors in *Interactive Media* and *Psychology* <br/>
 
-**Relevant Coursework** <br />
-<br />
-*Computer Science* <br />
-- Algorithms <br />
-- Data Structures <br />
-- Discrete Math <br />
-- Introduction to Computer Science <br />
-- Artificial Intelligence and Human Decisions <br />
+**Relevant Coursework** <br/>
+<br/>
+*Computer Science* <br/>
+- Algorithms <br/>
+- Data Structures <br/>
+- Discrete Math <br/>
+- Introduction to Computer Science <br/>
+- Artificial Intelligence and Human Decisions <br/>
 
-*Interactive Media* <br />
-- Introduction to Interactive Media <br />
-- Communications Lab <br />
+*Interactive Media* <br/>
+- Introduction to Interactive Media <br/>
+- Communications Lab <br/>
 
 ## Class and Personal Projects
-*Class* <br/ >
-[Dirham Miner (game via Processing)](https://github.com/briankim113/introfinal)
+*Class* <br/>
+[Dirham Miner](https://github.com/briankim113/introfinal) (game via Processing)
 <br/>
 *Personal* <br/>
-[Choongman Chicken (iOS app via Swift)](https://github.com/briankim113/ChoongmanChicken)
+[Choongman Chicken](https://github.com/briankim113/ChoongmanChicken) (iOS app via Swift)
 
 ## Let's Connect!
-Email me at hk2473@nyu.edu <br />
+Email me at hk2473@nyu.edu <br/>
 Or contact me over various platforms below:
 
 <p float="left">
