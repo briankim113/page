@@ -23,7 +23,8 @@ Minors in *Interactive Media* and *Psychology* <br/>
 
 ## Class and Personal Projects
 *Class* <br/>
-[Dirham Miner](https://github.com/briankim113/introfinal) (game via Processing)
+[Dirham Miner](https://github.com/briankim113/introfinal) (game via Processing) <br/>
+[CommLab Final Website](http://hk247.nyuadim.com/index.html) (interactive website)
 <br/>
 *Personal* <br/>
 [Choongman Chicken](https://github.com/briankim113/ChoongmanChicken) (iOS app via Swift)
