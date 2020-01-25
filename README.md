@@ -7,9 +7,8 @@
 Expected Graduation: December 2021 <br/>
 B.S. in *Computer Science* <br/>
 Minors in *Interactive Media* and *Psychology* <br/>
-
-**Relevant Coursework** <br/>
 <br/>
+**Relevant Coursework** <br/>
 *Computer Science* <br/>
 - Algorithms <br/>
 - Data Structures <br/>
@@ -23,11 +22,12 @@ Minors in *Interactive Media* and *Psychology* <br/>
 
 ## Class and Personal Projects
 *Class* <br/>
-[Dirham Miner](https://github.com/briankim113/introfinal) (game via Processing) <br/>
-[CommLab Final Website](http://hk247.nyuadim.com/index.html) (interactive website)
+[Dirham Miner](https://github.com/briankim113/introfinal): Processing game for Intro to CS <br/>
+[CommLab Final Website](http://hk247.nyuadim.com/index.html): interactive website for Comm Lab <br/>
 <br/>
 *Personal* <br/>
-[Choongman Chicken](https://github.com/briankim113/ChoongmanChicken) (iOS app via Swift)
+[Yeosu-Suncheon Revolution](https://github.com/briankim113/YeoSunRevolution): iOS app to memorialize my hometown's revolution in 1948<br/>
+[Choongman Chicken](https://github.com/briankim113/ChoongmanChicken): iOS app for a local fried chicken brand
 
 ## Let's Connect!
 Email me at hk2473@nyu.edu <br/>
