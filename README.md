@@ -22,8 +22,8 @@ Minors in *Interactive Media* and *Psychology*
 
 ## Class and Personal Projects
 *Class* <br/>
-[Intro to IM GitHub Repo](https://github.com/briankim113/Introduction-to-Interactive-Media): A repo of prototypes and codes for various projects for Intro to IM </br>
-[Dirham Miner](https://github.com/briankim113/introfinal): A Processing game for Intro to CS </br>
+[Intro to IM GitHub Repo](https://github.com/briankim113/Introduction-to-Interactive-Media): A repo of prototypes and codes for various projects for Intro to IM <br/>
+[Dirham Miner](https://github.com/briankim113/introfinal): A Processing game for Intro to CS <br/>
 [CommLab Final Website](http://hk247.nyuadim.com/index.html): An interactive website for Comm Lab
 
 
