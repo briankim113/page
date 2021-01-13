@@ -4,32 +4,31 @@
 
 ## Education
 **New York University Abu Dhabi**, Abu Dhabi, UAE <br/>
-Expected Graduation: December 2021 <br/>
+Expected Graduation: May 2022 <br/>
 B.S. in *Computer Science* <br/>
 Minors in *Interactive Media* and *Psychology*
 
-**Classwork** <br/>
-*Computer Science* <br/>
+**Classwork**
+*Computer Science*
+- Database Systems <br/>
+- Software Engineering <br/>
+- Computer Systems Organization <br/>
 - Algorithms <br/>
 - Data Structures <br/>
 - Discrete Math <br/>
 - Introduction to Computer Science <br/>
-- Artificial Intelligence and Human Decisions
 
-*Interactive Media* <br/>
-- Introduction to Interactive Media <br/>
-- Communications Lab
+*Interactive Media*
+- Musical Programming <br/>
+- Communications Lab <br/>
+- Introduction to Interactive Media
 
-## Class and Personal Projects
-*Class* <br/>
+## Featured Projects
+[FFmpeg Microservice through Docker and Kubernetes](https://github.com/briankim113/gist-internship): A repo of shell scripts and YAML files for FFmpeg microservice for GIST research internship <br/>
 [Intro to IM GitHub Repo](https://github.com/briankim113/Introduction-to-Interactive-Media): A repo of prototypes and codes for various projects for Intro to IM <br/>
 [Dirham Miner](https://github.com/briankim113/introfinal): A Processing game for Intro to CS <br/>
 [CommLab Final Website](http://hk247.nyuadim.com/index.html): An interactive website for Comm Lab
 
-
-*Personal* <br/>
-[Yeosu-Suncheon Revolution](https://github.com/briankim113/YeoSunRevolution): iOS app to memorialize my hometown's revolution in 1948<br/>
-[Choongman Chicken](https://github.com/briankim113/ChoongmanChicken): iOS app for a local fried chicken brand
 
 ## Let's Connect!
 Email me at hk2473@nyu.edu <br/>
