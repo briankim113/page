@@ -8,20 +8,20 @@ Expected Graduation: May 2022 <br/>
 B.S. in *Computer Science* <br/>
 Minors in *Interactive Media* and *Psychology*
 
-**Classwork**
+**Classwork** <br/>
 *Computer Science*
-- Database Systems <br/>
-- Software Engineering <br/>
-- Computer Systems Organization <br/>
-- Algorithms <br/>
-- Data Structures <br/>
-- Discrete Math <br/>
-- Introduction to Computer Science <br/>
+- Database Systems
+- Software Engineering
+- Computer Systems Organization
+- Algorithms
+- Data Structures
+- Discrete Math
+- Introduction to Computer Science
 
 *Interactive Media*
-- Musical Programming <br/>
-- Communications Lab <br/>
+- Musical Programming
 - Introduction to Interactive Media
+- Communications Lab
 
 ## Featured Projects
 [FFmpeg Microservice through Docker and Kubernetes](https://github.com/briankim113/gist-internship): A repo of shell scripts and YAML files for FFmpeg microservice for GIST research internship <br/>
@@ -31,7 +31,7 @@ Minors in *Interactive Media* and *Psychology*
 
 
 ## Let's Connect!
-Email me at hk2473@nyu.edu <br/>
+Email me at brian.h.kim@nyu.edu <br/>
 Or contact me over various platforms below:
 
 <p float="left">
