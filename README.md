@@ -11,21 +11,21 @@ Expected Graduation: May 2022 <br/>
 ## Related Experience
 #### Undergraduate Research Assistant
 * Sep 2020 - Present
-* [Applied Interactive Media Lab](https://wp.nyu.edu/aimlab/), NYU Abu Dhabi, UAE
+* [Applied Interactive Media Lab](https://wp.nyu.edu/aimlab/), NYU Abu Dhabi, UAE <br/>
 #### Research Intern
 * Oct 2020 - Dec 2020
-* [Networked Intelligence Lab](https://nm.gist.ac.kr/), Gwangju Institute of Science and Technology, South Korea
+* [Networked Intelligence Lab](https://nm.gist.ac.kr/), Gwangju Institute of Science and Technology, South Korea <br/>
 #### Public Big Data Youth Intern
 * Sep 2020 - Oct 2020
-* [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), South Korea
+* [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), South Korea <br/>
 #### iOS App Development Intern
 * Jun 2020 - Jul 2020
 * [imagiLabs](https://imagilabs.com/), Sweden
 
 ## Classwork
-### Computer Science
-* Database Systems, Software Engineering, Computer Systems Organization, Algorithms, Data Structures, Discrete Math, Introduction to Computer Science
-### Interactive Media
+#### Computer Science
+* Database Systems, Software Engineering, Computer Systems Organization, Algorithms, Data Structures, Discrete Math, Introduction to Computer Science <br/>
+#### Interactive Media
 * Musical Programming, Introduction to Interactive Media, Communications Lab
 
 ## Featured Projects
