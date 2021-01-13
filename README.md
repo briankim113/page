@@ -9,13 +9,13 @@ B.Sc. in *Computer Science* <br/>
 Minors in *Interactive Media* and *Psychology*
 
 ## Related Experience
-- Undergraduate Research Assistant, Sep 2020 - Present
+* Undergraduate Research Assistant, Sep 2020 - Present
   * [Applied Interactive Media Lab](https://wp.nyu.edu/aimlab/), NYU Abu Dhabi, UAE
-- Research Intern, Oct 2020 - Dec 2020
+* Research Intern, Oct 2020 - Dec 2020
   * [Networked Intelligence Lab](https://nm.gist.ac.kr/), Gwangju Institute of Science and Technology, South Korea
-- Public Big Data Youth Intern, Sep 2020 - Oct 2020
+* Public Big Data Youth Intern, Sep 2020 - Oct 2020
   * [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), South Korea
-- iOS App Development Intern, Jun 2020 - Jul 2020
+* iOS App Development Intern, Jun 2020 - Jul 2020
   * [imagiLabs](https://imagilabs.com/), Sweden
 
 ## Classwork
