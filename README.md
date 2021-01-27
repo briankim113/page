@@ -9,16 +9,22 @@ Expected Graduation: May 2022 <br/>
 * Minors in *Interactive Media* and *Psychology*
 
 ## Related Experience
-#### Undergraduate Research Assistant
+Undergraduate Research Assistant
 * Sep 2020 - Present
-* [Applied Interactive Media Lab](https://wp.nyu.edu/aimlab/), NYU Abu Dhabi, UAE <br/>
-#### Research Intern
+* [Applied Interactive Media Lab](https://wp.nyu.edu/aimlab/), NYU Abu Dhabi, UAE
+<br/>
+
+Research Intern
 * Oct 2020 - Dec 2020
-* [Networked Intelligence Lab](https://nm.gist.ac.kr/), Gwangju Institute of Science and Technology, South Korea <br/>
-#### Public Big Data Youth Intern
+* [Networked Intelligence Lab](https://nm.gist.ac.kr/), Gwangju Institute of Science and Technology, South Korea
+<br/>
+
+Public Big Data Youth Intern
 * Sep 2020 - Oct 2020
-* [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), South Korea <br/>
-#### iOS App Development Intern
+* [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), South Korea
+<br/>
+
+iOS App Development Intern
 * Jun 2020 - Jul 2020
 * [imagiLabs](https://imagilabs.com/), Sweden
 
@@ -27,9 +33,12 @@ Expected Graduation: May 2022 <br/>
 * Database Systems, Software Engineering, Computer Systems Organization, Algorithms, Data Structures, Discrete Math, Introduction to Computer Science <br/>
 #### Interactive Media
 * Musical Programming, Introduction to Interactive Media, Communications Lab
+#### Online
+* iOS Programming, 
 
 ## Featured Projects
-- [FFmpeg Microservice through Docker and Kubernetes](https://github.com/briankim113/gist-internship): A repo of shell scripts and YAML files for FFmpeg microservice for GIST research internship <br/>
+- [FFmpeg Microservice through Docker and Kubernetes](https://github.com/briankim113/gist-internship): A repo of shell scripts and YAML files for an Ubuntu-based FFmpeg microservice created using Docker and Kubernetes during GIST research internship <br/>
+- [Nitaq](https://github.com/nyuad-hackathon-2020/nitaq): An educational platform that transforms a lesson plan into an interactive text-based game for students in low-connectivity communities using mesh network, awarded Audience Award at 2020 NYUAD Hackathon <br/>
 - [Intro to IM GitHub Repo](https://github.com/briankim113/Introduction-to-Interactive-Media): A repo of prototypes and codes for various projects for Intro to IM <br/>
 - [Dirham Miner](https://github.com/briankim113/introfinal): A Processing game for Intro to CS <br/>
 - [CommLab Final Website](http://hk247.nyuadim.com/index.html): An interactive website for Comm Lab
