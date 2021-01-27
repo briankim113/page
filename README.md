@@ -34,7 +34,7 @@ iOS App Development Intern
 #### Interactive Media
 * Musical Programming, Introduction to Interactive Media, Communications Lab
 #### Online
-* iOS Programming, 
+* [iOS App Development](https://www.udemy.com/course/ios-13-app-development-bootcamp/), [Kubernetes](https://www.educative.io/courses/practical-guide-to-kubernetes), [Computer Networking](https://www.educative.io/courses/grokking-computer-networking)
 
 ## Featured Projects
 - [FFmpeg Microservice through Docker and Kubernetes](https://github.com/briankim113/gist-internship): A repo of shell scripts and YAML files for an Ubuntu-based FFmpeg microservice created using Docker and Kubernetes during GIST research internship <br/>
