@@ -9,7 +9,7 @@ Expected Graduation: May 2022 <br/>
 * Minors in *Interactive Media* and *Psychology*
 
 ## Related Experience
-[Full CV](https://drive.google.com/file/d/1BMEYU4NMYAihCegVKhoRRfK3Vga0Mfpq/view?usp=sharing) for more information
+[Full CV](https://docs.google.com/document/d/19pddtevEGpmLIKrWWmJUetb3dD6jpdMuRBeQ8uFA8AQ/edit?usp=sharing) for more information
 
 **Undergraduate Research Assistant**
 * Sep 2020 - Present
