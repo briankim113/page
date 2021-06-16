@@ -1,7 +1,3 @@
-<p style = "text-align:center;">
-  <img src="photo.jpg" alt="me" width="250" height="250">
-</p>
-
 ## Education
 **New York University Abu Dhabi**, Abu Dhabi, UAE <br/>
 Expected Graduation: May 2022 <br/>
