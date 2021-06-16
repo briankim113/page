@@ -1,48 +1,58 @@
-## Education
-**New York University Abu Dhabi**, Abu Dhabi, UAE <br/>
-Expected Graduation: May 2022 <br/>
-* B.Sc. in *Computer Science* <br/>
-* Minors in *Interactive Media* and *Psychology*
+# Education
+* * *
+**New York University Abu Dhabi**, Abu Dhabi, UAE  
+Bachelor of Science in Computer Science  
+Minors in Interactive Media & Psychology  
+GPA: 3.899; Anticipated Graduation: May 2022
 
-## Related Experience
-[Full CV](https://docs.google.com/document/d/19pddtevEGpmLIKrWWmJUetb3dD6jpdMuRBeQ8uFA8AQ/edit?usp=sharing) for more information
+**Research Interests**  
+Computer Security, Browser Security, Mobile Security, Network Security, Privacy Engineering
+ 
+**Related Coursework**  
+Operating Systems, Computer Security, Database Systems, Algorithmic Problem Solving, Software Engineering
 
-**Undergraduate Research Assistant**
-* Sep 2020 - Present
-* [Applied Interactive Media Lab](https://wp.nyu.edu/aimlab/), NYU Abu Dhabi, UAE
+# Experience
+[Industry CV](https://docs.google.com/document/d/19pddtevEGpmLIKrWWmJUetb3dD6jpdMuRBeQ8uFA8AQ/edit?usp=sharing)
+or [Academic CV](https://docs.google.com/document/d/1Js9eWiR65zJzN37uNUiyC9Zfmczm0dhxp_v35CGDFH8/edit?usp=sharing)
+for more detail
+* * *
+## Research
+| Lab                                      | Institution                                              | Date              |
+|:-----------------------------------------|:---------------------------------------------------------|:------------------|
+| Cyber Security & Privacy Lab             | New York University Abu Dhabi, UAE                       | Feb 2021–Present  |
+| Applied Interactive Media Lab            | New York University Abu Dhabi, UAE                       | Sep 2020–Feb 2021 |
+| Networked Intelligence Lab               | Gwangju Institute of Science and Technology, South Korea | Oct–Dec 2020      |
+| Representations of Early Experiences Lab | New York University Abu Dhabi, UAE                       | Sep–Dec 2017      |
 
-**Research Intern**
-* Oct 2020 - Dec 2020
-* [Networked Intelligence Lab](https://nm.gist.ac.kr/), Gwangju Institute of Science and Technology, South Korea
+## Professional
+| Position                     | Company / Institution                                   | Date         |
+|:-----------------------------|:--------------------------------------------------------|:-------------|
+| Public Big Data Youth Intern | National Information Society Agency, Daegu, South Korea | Aug–Sep 2020 |
+| iOS App Development Intern   | imagiLabs, Stockholm, Sweden                            | Jun–Jul 2020 |
 
-**Public Big Data Youth Intern**
-* Sep 2020 - Oct 2020
-* [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), South Korea
+# Public Projects
+* * *
+[JABR e-Grocery](https://github.com/reem-hazim/JABR-eGrocery) - Spring 2021  
+An e-grocery application created using MERN in Software Engineering course
 
-**iOS App Development Intern**
-* Jun 2020 - Jul 2020
-* [imagiLabs](https://imagilabs.com/), Sweden
+[FFmpeg Microservice](https://github.com/briankim113/gist-internship) - Fall 2020  
+A repo of shell scripts and YAML files for an Ubuntu-based FFmpeg microservice created using Docker and Kubernetes during GIST research internship
 
-## Classwork
-**Computer Science**
-* Database Systems, Software Engineering, Computer Systems Organization, Algorithms, Data Structures, Discrete Math, Introduction to Computer Science <br/>
+[Nitaq](https://github.com/nyuad-hackathon-2020/nitaq) - Spring 2020  
+An educational platform that transforms a lesson plan into an interactive text-based game for students in low-connectivity communities using mesh network, awarded Audience Award at 2020 NYUAD Hackathon
 
-**Interactive Media**
-* Musical Programming, Introduction to Interactive Media, Communications Lab
+[Intro to IM Repo](https://github.com/briankim113/Introduction-to-Interactive-Media) - Spring 2020  
+A repo of prototypes and codes for  projects done in Introduction to Interactive Media course
 
-**Online**
-* [iOS App Development](https://www.udemy.com/course/ios-13-app-development-bootcamp/), [Kubernetes](https://www.educative.io/courses/practical-guide-to-kubernetes), [Computer Networking](https://www.educative.io/courses/grokking-computer-networking)
+[Dirham Miner](https://github.com/briankim113/introfinal) - Fall 2019  
+A Processing game for Introduction to Computer Science course
 
-## Featured Projects
-- [FFmpeg Microservice](https://github.com/briankim113/gist-internship): A repo of shell scripts and YAML files for an Ubuntu-based FFmpeg microservice created using Docker and Kubernetes during GIST research internship <br/>
-- [Nitaq](https://github.com/nyuad-hackathon-2020/nitaq): An educational platform that transforms a lesson plan into an interactive text-based game for students in low-connectivity communities using mesh network, awarded Audience Award at 2020 NYUAD Hackathon <br/>
-- [Intro to IM Repo](https://github.com/briankim113/Introduction-to-Interactive-Media): A repo of prototypes and codes for various projects for Intro to IM <br/>
-- [Dirham Miner](https://github.com/briankim113/introfinal): A Processing game for Intro to CS <br/>
-- [CommLab Final Website](http://hk247.nyuadim.com/index.html): An interactive website for Comm Lab
+[CommLab Final Website](http://hk247.nyuadim.com/index.html) - Spring 2017  
+An interactive web portfolio of all the projects done in Communications Lab course
 
 
 ## Let's Connect!
-Email me at brian.h.kim@nyu.edu <br/>
+Email me at brian.h.kim@nyu.edu  
 Or contact me over various platforms below:
 
 <p float="left">
@@ -52,7 +62,7 @@ Or contact me over various platforms below:
   <a href="http://www.github.com/briankim113">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" alt="github" width="30" height="30" style="vertical-align:middle">
   </a>
-  <a href="https://www.linkedin.com/in/brian-kim-44a664198/">
+  <a href="https://www.linkedin.com/in/briankim113">
     <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:5px; vertical-align:middle">
   </a>
 </p>
