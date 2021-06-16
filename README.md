@@ -19,16 +19,16 @@ for more detail
 ## Research
 | Lab                                      | Institution                                              | Date              |
 |:-----------------------------------------|:---------------------------------------------------------|:------------------|
-| Cyber Security & Privacy Lab             | New York University Abu Dhabi, UAE                       | Feb 2021–Present  |
-| Applied Interactive Media Lab            | New York University Abu Dhabi, UAE                       | Sep 2020–Feb 2021 |
-| Networked Intelligence Lab               | Gwangju Institute of Science and Technology, South Korea | Oct–Dec 2020      |
-| Representations of Early Experiences Lab | New York University Abu Dhabi, UAE                       | Sep–Dec 2017      |
+| Cyber Security & Privacy Lab             | New York University Abu Dhabi, UAE                       | Feb 2021–Present  
+| Applied Interactive Media Lab            | New York University Abu Dhabi, UAE                       | Sep 2020–Feb 2021 
+| Networked Intelligence Lab               | Gwangju Institute of Science and Technology, South Korea | Oct–Dec 2020      
+| Representations of Early Experiences Lab | New York University Abu Dhabi, UAE                       | Sep–Dec 2017      
 
 ## Professional
 | Position                     | Company / Institution                                   | Date         |
 |:-----------------------------|:--------------------------------------------------------|:-------------|
-| Public Big Data Youth Intern | National Information Society Agency, Daegu, South Korea | Aug–Sep 2020 |
-| iOS App Development Intern   | imagiLabs, Stockholm, Sweden                            | Jun–Jul 2020 |
+| Public Big Data Youth Intern | National Information Society Agency, Daegu, South Korea | Aug–Sep 2020 
+| iOS App Development Intern   | imagiLabs, Stockholm, Sweden                            | Jun–Jul 2020 
 
 # Public Projects
 * * *
