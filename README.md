@@ -3,17 +3,16 @@
 **New York University Abu Dhabi**, Abu Dhabi, UAE  
 Bachelor of Science in Computer Science  
 Minors in Interactive Media & Psychology  
-GPA: 3.899; Anticipated Graduation: May 2022
+GPA: 3.903; Anticipated Graduation: May 2022
 
 **Research Interests**  
-Computer Security, Browser Security, Mobile Security, Network Security, Privacy Engineering
+Computer Security, Mobile Security, Network Security, Privacy
  
 **Related Coursework**  
-Operating Systems, Computer Security, Database Systems, Algorithmic Problem Solving, Software Engineering
+Operating Systems, Computer Networks, Computer Security, Algorithmic Problem Solving, Database Systems, Software Engineering
 
 # Experience
-[Industry CV](https://docs.google.com/document/d/19pddtevEGpmLIKrWWmJUetb3dD6jpdMuRBeQ8uFA8AQ/edit?usp=sharing)
-or [Academic CV](https://docs.google.com/document/d/1Js9eWiR65zJzN37uNUiyC9Zfmczm0dhxp_v35CGDFH8/edit?usp=sharing)
+[Academic CV](https://docs.google.com/document/d/1Js9eWiR65zJzN37uNUiyC9Zfmczm0dhxp_v35CGDFH8/edit?usp=sharing)
 for more detail
 * * *
 ## Research
