@@ -65,3 +65,9 @@ Or contact me over various platforms below:
     <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:5px; vertical-align:middle">
   </a>
 </p>
+
+
+## Personal
+Born in South Korea, I have always been “on the go” since I moved to Virginia at the age of nine. Since then, I also lived in Italy and the United Arab Emirates. I have documented my experiences in Italy [here](https://briankim113.wixsite.com/ciao-italia) and in the UAE [here](https://briankim113.wixsite.com/nyuad).
+
+I have recently started a book review / reflection blog, so give it a read [here](https://brianreadsbooks.wordpress.com/).
