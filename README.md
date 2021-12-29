@@ -4,9 +4,6 @@
 Bachelor of Science in Computer Science  
 Minors in Interactive Media & Psychology  
 GPA: 3.911; Anticipated Graduation: May 2022
-
-**Research Interests**  
-Computer Security, Mobile Security, Network Security, Privacy
  
 **Related Coursework**  
 Operating Systems, Computer Networks, Computer Security, Algorithmic Problem Solving, Database Systems, Software Engineering
