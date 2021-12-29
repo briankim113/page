@@ -41,10 +41,10 @@ A repo of shell scripts and YAML files for an Ubuntu-based FFmpeg microservice c
 An educational platform that transforms a lesson plan into an interactive text-based game for students in low-connectivity communities using mesh network, awarded Audience Award at 2020 NYUAD Hackathon
 
 [Intro to IM Repo](https://github.com/briankim113/Introduction-to-Interactive-Media) - Spring 2020  
-A repo of prototypes and codes for  projects done in Introduction to Interactive Media course
+A repo of prototypes and codes for all the projects done in Introduction to Interactive Media course
 
 [Dirham Miner](https://github.com/briankim113/introfinal) - Fall 2019  
-A Processing game for Introduction to Computer Science course
+A Processing game created as the final project for Introduction to Computer Science course
 
 [CommLab Final Website](http://hk247.nyuadim.com/index.html) - Spring 2017  
 An interactive web portfolio of all the projects done in Communications Lab course
