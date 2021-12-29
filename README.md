@@ -3,7 +3,7 @@
 **New York University Abu Dhabi**, Abu Dhabi, UAE  
 Bachelor of Science in Computer Science  
 Minors in Interactive Media & Psychology  
-GPA: 3.903; Anticipated Graduation: May 2022
+GPA: 3.911; Anticipated Graduation: May 2022
 
 **Research Interests**  
 Computer Security, Mobile Security, Network Security, Privacy
@@ -12,7 +12,7 @@ Computer Security, Mobile Security, Network Security, Privacy
 Operating Systems, Computer Networks, Computer Security, Algorithmic Problem Solving, Database Systems, Software Engineering
 
 # Experience
-[Academic CV](https://docs.google.com/document/d/1Js9eWiR65zJzN37uNUiyC9Zfmczm0dhxp_v35CGDFH8/edit?usp=sharing)
+Check out [Academic CV](https://docs.google.com/document/d/1Js9eWiR65zJzN37uNUiyC9Zfmczm0dhxp_v35CGDFH8/edit?usp=sharing) or [Industry CV](https://docs.google.com/document/d/19pddtevEGpmLIKrWWmJUetb3dD6jpdMuRBeQ8uFA8AQ/edit?usp=sharing)
 for more detail
 * * *
 ## Research
@@ -23,13 +23,13 @@ for more detail
 | Networked Intelligence Lab               | Gwangju Institute of Science and Technology, South Korea | Oct–Dec 2020      
 | Representations of Early Experiences Lab | New York University Abu Dhabi, UAE                       | Sep–Dec 2017      
 
-## Professional
+## Industry
 | Position                     | Company / Institution                                   | Date         |
 |:-----------------------------|:--------------------------------------------------------|:-------------|
 | Public Big Data Youth Intern | National Information Society Agency, Daegu, South Korea | Aug–Sep 2020 
 | iOS App Development Intern   | imagiLabs, Stockholm, Sweden                            | Jun–Jul 2020 
 
-# Public Projects
+# Project Highlights
 * * *
 [JABR e-Grocery](https://github.com/reem-hazim/JABR-eGrocery) - Spring 2021  
 An e-grocery application created using MERN in Software Engineering course
@@ -49,6 +49,10 @@ A Processing game for Introduction to Computer Science course
 [CommLab Final Website](http://hk247.nyuadim.com/index.html) - Spring 2017  
 An interactive web portfolio of all the projects done in Communications Lab course
 
+## Personal
+Born in South Korea, I have always been “on the go” since I moved to Virginia at the age of nine. Since then, I also lived in Italy and the United Arab Emirates. I have documented my experiences in Italy [here](https://briankim113.wixsite.com/ciao-italia) and in the UAE [here](https://briankim113.wixsite.com/nyuad).
+
+I have recently started a book review / reflection blog, so give it a read [here](https://brianreadsbooks.wordpress.com/).
 
 ## Let's Connect!
 Email me at brian.h.kim@nyu.edu  
@@ -65,9 +69,3 @@ Or contact me over various platforms below:
     <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:5px; vertical-align:middle">
   </a>
 </p>
-
-
-## Personal
-Born in South Korea, I have always been “on the go” since I moved to Virginia at the age of nine. Since then, I also lived in Italy and the United Arab Emirates. I have documented my experiences in Italy [here](https://briankim113.wixsite.com/ciao-italia) and in the UAE [here](https://briankim113.wixsite.com/nyuad).
-
-I have recently started a book review / reflection blog, so give it a read [here](https://brianreadsbooks.wordpress.com/).
