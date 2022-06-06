@@ -1,33 +1,40 @@
-# Education
-* * *
-**New York University Abu Dhabi**, Abu Dhabi, UAE  
-Bachelor of Science in Computer Science  
-Minors in Interactive Media & Psychology  
-GPA: 3.911; Anticipated Graduation: May 2022
+# Brian Hyeongseok Kim
+Email: kimhyeon(at)usc(dot)edu  
+LinkedIn: https://www.linkedin.com/in/briankim113/  
+Summary: I am an incoming CS Ph.D. Student with a broad interest in computer security. I have studied and worked around the world, in South Korea, the United States, Italy, Argentina, and the United Arab Emirates. My personal interests include mental health support, music, reading, and foreign languages.
+
+## Education
+**University of Southern California (USC)**, Los Angeles, USA (2022-)  
+Ph.D. in Computer Science
+
+**New York University Abu Dhabi (NYUAD)**, Abu Dhabi, UAE (2016-2022)  
+B.Sc. in Computer Science    
+Minors: Interactive Media, Psychology  
+Honors: Cum Laude (GPA: 3.915/4.0)  
  
 **Related Coursework**  
 Operating Systems, Computer Networks, Computer Security, Algorithmic Problem Solving, Database Systems, Software Engineering
 
-# Experience
-Check out [Academic CV](https://docs.google.com/document/d/1Js9eWiR65zJzN37uNUiyC9Zfmczm0dhxp_v35CGDFH8/edit?usp=sharing) or [Industry CV](https://docs.google.com/document/d/19pddtevEGpmLIKrWWmJUetb3dD6jpdMuRBeQ8uFA8AQ/edit?usp=sharing)
-for more detail
-* * *
-## Research
+## Selected Experiences
+### Research
 | Lab                                      | Institution                                              | Date              |
 |:-----------------------------------------|:---------------------------------------------------------|:------------------|
-| Cyber Security & Privacy Lab             | New York University Abu Dhabi, UAE                       | Feb 2021–Present  
-| Applied Interactive Media Lab            | New York University Abu Dhabi, UAE                       | Sep 2020–Feb 2021 
+| Cyber Security & Privacy Lab             | NYUAD, UAE                                               | Feb 2021–May 2022  
+| Applied Interactive Media Lab            | NYUAD, UAE                                               | Sep 2020–Feb 2021 
 | Networked Intelligence Lab               | Gwangju Institute of Science and Technology, South Korea | Oct–Dec 2020      
-| Representations of Early Experiences Lab | New York University Abu Dhabi, UAE                       | Sep–Dec 2017      
+| Representations of Early Experiences Lab | NYUAD, UAE                                               | Sep–Dec 2017      
 
-## Industry
-| Position                     | Company / Institution                                   | Date         |
-|:-----------------------------|:--------------------------------------------------------|:-------------|
-| Public Big Data Youth Intern | National Information Society Agency, Daegu, South Korea | Aug–Sep 2020 
-| iOS App Development Intern   | imagiLabs, Stockholm, Sweden                            | Jun–Jul 2020 
+### Professional
+| Position                                        | Company / Institution                                   | Date         |
+|:------------------------------------------------|:--------------------------------------------------------|:-------------|
+| Programming Planning, Research and Data Analyst | Office of Student Success and Well-being, NYUAD, UAE    | Jun–Jul 2022 
+| Public Big Data Youth Intern                    | National Information Society Agency, Daegu, South Korea | Aug–Sep 2020 
+| iOS App Development Intern                      | imagiLabs, Stockholm, Sweden                            | Jun–Jul 2020 
 
-# Project Highlights
-* * *
+## Project Highlights
+[Senior Capstone Thesis](https://github.com/briankim113/capstone) - Spring 2021 - Spring 2022  
+A repo of my undergraduate senior capstone thesis work in mobile browser extension fingerprinting
+
 [JABR e-Grocery](https://github.com/reem-hazim/JABR-eGrocery) - Spring 2021  
 An e-grocery application created using MERN in Software Engineering course
 
@@ -47,22 +54,6 @@ A Processing game created as the final project for Introduction to Computer Scie
 An interactive web portfolio of all the projects done in Communications Lab course
 
 ## Personal
-Born in South Korea, I have always been “on the go” since I moved to Virginia at the age of nine. Since then, I also lived in Italy and the United Arab Emirates. I have documented my experiences in Italy [here](https://briankim113.wixsite.com/ciao-italia) and in the UAE [here](https://briankim113.wixsite.com/nyuad).
+Born in South Korea, I have always been “on the go” since I moved to Virginia at the age of nine. Since then, I also lived in Italy and the United Arab Emirates.
 
-I have recently started a book review / reflection blog, so give it a read [here](https://brianreadsbooks.wordpress.com/).
-
-## Let's Connect!
-Email me at brian.h.kim@nyu.edu  
-Or contact me over various platforms below:
-
-<p float="left">
-  <a href="http://www.facebook.com/briankim113">
-    <img src="https://image.flaticon.com/icons/png/512/25/25187.png" alt="facebook" width="30" height="30" style="vertical-align:middle">
-  </a>
-  <a href="http://www.github.com/briankim113">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" alt="github" width="30" height="30" style="vertical-align:middle">
-  </a>
-  <a href="https://www.linkedin.com/in/briankim113">
-    <img src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="linkedin" width="28" height="28" style="padding-left:5px; vertical-align:middle">
-  </a>
-</p>
+I have documented my experiences in Italy [here](https://briankim113.wixsite.com/ciao-italia) and in the UAE [here](https://briankim113.wixsite.com/nyuad). I have recently started a book review / reflection blog, so give it a read [here](https://brianreadsbooks.wordpress.com/).
