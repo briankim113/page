@@ -1,14 +1,14 @@
 # Brian Hyeongseok Kim
-Email: kimhyeon(at)usc(dot)edu  
-LinkedIn: https://www.linkedin.com/in/briankim113/  
-Summary: I am an incoming CS Ph.D. Student with a broad interest in computer security. I have studied and worked around the world, in South Korea, the United States, Italy, Argentina, and the United Arab Emirates. My personal interests include mental health support, music, reading, and foreign languages.
+**Email**: kimhyeon(at)usc(dot)edu  
+**LinkedIn**: https://www.linkedin.com/in/briankim113/  
+**Summary**: I am an incoming CS Ph.D. Student with a broad interest in computer security. I have studied and worked around the world, in South Korea, the United States, Italy, Argentina, and the United Arab Emirates. My personal interests include mental health support, music, reading, and foreign languages.
 
 ## Education
-**University of Southern California (USC)**, Los Angeles, USA (2022-)  
-Ph.D. in Computer Science
+**Ph.D. in Computer Science** (2022-present)  
+University of Southern California (USC), USA   
 
-**New York University Abu Dhabi (NYUAD)**, Abu Dhabi, UAE (2016-2022)  
-B.Sc. in Computer Science    
+**B.Sc. in Computer Science** (2016-2022)  
+New York University Abu Dhabi (NYUAD), UAE   
 Minors: Interactive Media, Psychology  
 Honors: Cum Laude (GPA: 3.915/4.0)  
  
@@ -16,6 +16,8 @@ Honors: Cum Laude (GPA: 3.915/4.0)
 Operating Systems, Computer Networks, Computer Security, Algorithmic Problem Solving, Database Systems, Software Engineering
 
 ## Selected Experiences
+Please refer to my [CV](https://docs.google.com/document/d/1adB2sJK9yrGO46aNro8cIxF7af4UpPfM/edit?usp=sharing&ouid=100890677524435342906&rtpof=true&sd=true) for a complete list of experiences.
+
 ### Research
 | Lab                                      | Institution                                              | Date              |
 |:-----------------------------------------|:---------------------------------------------------------|:------------------|
