@@ -1,6 +1,6 @@
 # Brian Hyeongseok Kim
 **Email**: brian(dot)hs(dot)kim(at)usc(dot)edu  
-[LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://docs.google.com/document/d/1adB2sJK9yrGO46aNro8cIxF7af4UpPfM/edit?usp=sharing&ouid=100890677524435342906&rtpof=true&sd=true)
+[LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://drive.google.com/file/d/1DRWMqoxUQ3H-E9DlvbRMlSpzcijz7GSA/view?usp=sharing)
 
 
 Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.Sc. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/).
