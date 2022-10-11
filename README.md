@@ -1,5 +1,5 @@
 # Brian Hyeongseok Kim
-**Email**: brian(dot)hs(dot)kim(at)usc(dot)edu  
+**Email**: brian (dot) hs (dot) kim (at) usc (dot) edu  
 [LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://drive.google.com/file/d/1DRWMqoxUQ3H-E9DlvbRMlSpzcijz7GSA/view?usp=sharing)
 
 
