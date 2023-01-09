@@ -17,4 +17,6 @@ New York University Abu Dhabi, UAE
 
 
 ## Personal
-Born in South Korea, I have always been “on the go” since I moved to Virginia when I was 9 years old. Since then, I lived in [Italy](https://briankim113.wixsite.com/ciao-italia) and the [United Arab Emirates](https://briankim113.wixsite.com/nyuad) and have documented my experiences here and there. Now, I am running a book review / reflection [blog](https://brianreadsbooks.wordpress.com/), so give it a read.
+Born in South Korea, I have always been “on the go” since I moved to Virginia when I was 9 years old. Since then, I lived in [Italy](https://briankim113.wixsite.com/ciao-italia) and the [United Arab Emirates](https://briankim113.wixsite.com/nyuad) and have documented my experiences here and there.
+
+I am actively running a [book review / reflection blog](https://brianreadsbooks.wordpress.com/), so give it a read!
