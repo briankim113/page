@@ -1,6 +1,6 @@
 # Brian Hyeongseok Kim
-**Email**: brian (dot) hs (dot) kim (at) usc (dot) edu  
-[LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://drive.google.com/file/d/1DRWMqoxUQ3H-E9DlvbRMlSpzcijz7GSA/view?usp=sharing)
+**Email**: brian.hs.kim[AT]usc.edu  
+[LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://drive.google.com/file/d/1ocR9HyLipBE6cX8LJy6plvxGMwtdbPJn/view?usp=sharing)
 
 
 Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.Sc. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/).
@@ -8,22 +8,12 @@ Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the Univ
 Brian has a broad interest in computer security, and his personal interests and pastimes include mental health support, music, reading, and journaling. He has studied and worked around the world, in South Korea, the United States, Italy, Argentina, and the United Arab Emirates.
 
 
-
 ## Education
 **Ph.D. in Computer Science** (2022 - present)  
-University of Southern California (USC), USA   
+University of Southern California, USA   
 
 **B.Sc. in Computer Science** (2016 - 2022)  
-New York University Abu Dhabi (NYUAD), UAE   
-Minors: Interactive Media, Psychology  
-Honors: Cum Laude (GPA: 3.915/4.0)
-
-### Related Coursework
-Autonomous Cyber-Physical Systems, Operating Systems, Computer Networks, Computer Security, Algorithmic Problem Solving, Database Systems, Software Engineering
-
-### Teaching
-Fall 2022: *CSCI 310 Introduction to Software Engineering*
-
+New York University Abu Dhabi, UAE
 
 
 ## Personal
