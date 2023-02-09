@@ -1,11 +1,11 @@
 # Brian Hyeongseok Kim
 **Email**: brian.hs.kim[AT]usc.edu  
-[LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://drive.google.com/file/d/1ocR9HyLipBE6cX8LJy6plvxGMwtdbPJn/view?usp=sharing)
+Please refer to my [LinkedIn](https://www.linkedin.com/in/briankim113/) & [CV](https://drive.google.com/file/d/1cvmoBWKKiq9YMwFv30g3lzgf4CgdWCH9/view?usp=sharing) for more information.
 
 
 Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.Sc. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/).
 
-Brian has a broad interest in computer security, and his personal interests and pastimes include mental health support, music, reading, and journaling. He has studied and worked around the world, in South Korea, the United States, Italy, Argentina, and the United Arab Emirates.
+Brian has a broad interest in software engineering and more specifically verifying its properties, such as security or fairness. His personal interests and pastimes include mental health support, music, reading, and journaling. He has studied and worked around the world, in South Korea, the United States, Italy, Argentina, and the United Arab Emirates.
 
 
 ## Education
