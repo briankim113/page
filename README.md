@@ -11,7 +11,8 @@ Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the Univ
 M.S./Ph.D. in Computer Science
 
 **New York University**, Abu Dhabi, UAE (2016 - 2022)  
-B.S. in Computer Science (Cum Laude), Minors in Interactive Media and Psychology
+B.S. in Computer Science (Cum Laude)  
+Minors in Interactive Media and Psychology
 
 
 ## Personal
