@@ -3,7 +3,9 @@
 **Links**: [LinkedIn](https://www.linkedin.com/in/briankim113/) and [Full CV](https://drive.google.com/file/d/17TASx_WMSXJ6O1tZ_aL1LcIfId5fjMrR/view?usp=share_link)
 
 
-Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.S. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/). Brian has a broad interest in software engineering and more specifically verification of security or fairness in software. He has studied and worked around the world, such as the United States, South Korea, Italy, Argentina, Sweden, and the United Arab Emirates.
+Brian Hyeongseok Kim is a 1st year Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.S. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/).
+
+Brian has a broad interest in software engineering and more specifically security or fairness verification in software. He has 3+ years of experience in both industry and academia, ranging from mobile app development and data analysis to software deployment and research. Also, he has studied and worked around the world, such as the United States, South Korea, Italy, Argentina, Sweden, and the United Arab Emirates.
 
 
 ## Education
