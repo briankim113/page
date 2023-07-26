@@ -1,13 +1,12 @@
 # Brian Hyeongseok Kim
 **Email**: brian.hs.kim[AT]usc.edu
+**Experiences**: [LinkedIn](https://www.linkedin.com/in/briankim113/) and [Full CV](https://drive.google.com/file/d/17TASx_WMSXJ6O1tZ_aL1LcIfId5fjMrR/view?usp=share_link).
 
 Brian Hyeongseok Kim is a 2nd year M.S./Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.S. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/).
 
 Brian has a broad interest in software engineering and more specifically security or fairness verification in software. He has 3+ years of cross-functional experience in industry, government and academia. His skills range from mobile app development and data analysis to software deployment and research.
 
 Brian takes pride in being interdisciplinary, with in-depth knowledge of computer science on top of minors in psychology and interactive media. He is also highly adaptable and skilled in intercultural communication, thanks to his study and work experiences around the world (United States, South Korea, Italy, Argentina, Sweden, and the United Arab Emirates).
-
-For full qualifications, please refer to [LinkedIn](https://www.linkedin.com/in/briankim113/) and [Full CV](https://drive.google.com/file/d/17TASx_WMSXJ6O1tZ_aL1LcIfId5fjMrR/view?usp=share_link).
 
 ## Education
 **University of Southern California**, Los Angeles, USA (2022 - present)  
@@ -18,7 +17,7 @@ B.S. in Computer Science (Cum Laude)
 Minors in Interactive Media and Psychology
 
 ## Ongoing Projects
-1. Using Abstract Interpretation and Linear Programming for Neural Network Fairness Verification, 2022-Present, _ongoing_
+1. Neural Network Fairness Verification, 2022-Present, _ongoing_
   * C, Python (TensorFlow, NumPy), Gurobi
 2. Extending Extension Fingerprinting to Mobile Devices, 2021-2022, _under submission_
   * JavaScript, MongoDB, Node.js, SQL, Web API
