@@ -2,7 +2,7 @@
 **Email**: brian.hs.kim[AT]usc.edu
 
 
-**Experiences**: [LinkedIn](https://www.linkedin.com/in/briankim113/) and [Full CV](https://drive.google.com/file/d/17TASx_WMSXJ6O1tZ_aL1LcIfId5fjMrR/view?usp=share_link).
+**Experiences**: [LinkedIn](https://www.linkedin.com/in/briankim113/) and [Full CV](https://briankim113.github.io/page/CV-2023-full.pdf).
 
 Brian Hyeongseok Kim is a 2nd year M.S./Ph.D. student in Computer Science at the University of Southern California (USC), advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/) since Fall 2022. Prior to USC, he received his B.S. in Computer Science at New York University Abu Dhabi (NYUAD), advised by [Prof. Christina Pöpper](https://poepper.net/).
 
@@ -19,9 +19,9 @@ B.S. in Computer Science (Cum Laude)
 Minors in Interactive Media and Psychology
 
 ## Ongoing Projects
-1. Neural Network Fairness Verification, 2022-Present, _ongoing_
+1. Neural Network Fairness Verification, 2022-Present, _ongoing work_
   * C, Python (TensorFlow, NumPy), Gurobi
-2. Extending Extension Fingerprinting to Mobile Devices, 2021-2022, _under submission_
+2. Extending Extension Fingerprinting to Mobile Devices, 2021-2022, _work under submission_
   * JavaScript, MongoDB, Node.js, SQL, Web API
 
 ## Personal
