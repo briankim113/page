@@ -20,9 +20,9 @@ Minors in Interactive Media and Psychology
 
 ## Ongoing Projects
 1. Neural Network Fairness Verification, 2022-Present, _ongoing work_
-  * C, Python (TensorFlow, NumPy), Gurobi
+  * C, Python (TensorFlow, NumPy, Pandas), Gurobi
 2. Extending Extension Fingerprinting to Mobile Devices, 2021-2022, _work under submission_
-  * JavaScript, MongoDB, Node.js, SQL, Web API
+  * JavaScript, MongoDB, Node.js, SQL, HTML, CSS, Web API
 
 ## Personal
 1. I am actively running a [book review / reflection blog](https://brianreadsbooks.wordpress.com/), so give it a read!
@@ -36,7 +36,9 @@ Minors in Interactive Media and Psychology
 * Python (NumPy, QPSolvers)
 3. [Teaching Material for CSCI 310](https://github.com/briankim113/CSCI310), Fall 2022
 * Outlined product requirements for an event discovery app; Provided tutorial on Firebase on Android Studio
-4. [JABR e-Grocery](https://github.com/briankim113/JABR-eGrocery), Spring 2021
+4. [SimpleDB](https://github.com/briankim113/Database-Systems), Spring 2021
+* Java, JUnit, Ant, Eclipse
+5. [JABR e-Grocery](https://github.com/briankim113/JABR-eGrocery), Spring 2021
 * MongoDB, Node.js, Express.js, HTML, CSS, JavaScript
 5. [Container-based Video Streaming Microservices](https://github.com/briankim113/gist-internship), Fall 2020
 * Docker, Kubernetes
